@@ -1,4 +1,4 @@
-### Hi there 👋, I am Samiha Hossain
+### Hi there 👋, I am Samiha
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiha-hossain19&show_icons=true&locale=en&layout=compact" alt="samiha-hossain19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiha-hossain19&show_icons=true&locale=en" alt="samiha-hossain19" /></p>
